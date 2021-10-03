@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gadget</string>
+
+    <style name="AppTheme" parent="Theme.AppCompat"></style>
+</resources>
